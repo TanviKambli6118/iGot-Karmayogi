@@ -1,0 +1,1992 @@
+
+{
+  "title": "Advance Training Calendar of NSSTA for FY 2026-27",
+  "competency_framework": {
+    "Statistical Competencies": [
+      "Survey Design",
+      "Sampling",
+      "National Accounts",
+      "Price Statistics",
+      "Labour Statistics",
+      "Agricultural Statistics",
+      "Industrial Statistics",
+      "SDG Indicators",
+      "Metadata Standards",
+      "Data Quality Frameworks"
+    ],
+    "Technical Competencies": [
+      "Python",
+      "R",
+      "SQL",
+      "Stata",
+      "SPSS",
+      "SAS",
+      "GIS",
+      "Data Visualization",
+      "AI/ML",
+      "Cloud Computing",
+      "APIs",
+      "Open Data"
+    ],
+    "Digital Governance": [
+      "Cybersecurity",
+      "Data Privacy",
+      "Digital Signatures",
+      "Government Cloud",
+      "Digital Public Infrastructure"
+    ],
+    "Behavioural and Managerial Competencies": [
+      "Leadership",
+      "Communication",
+      "Project Management",
+      "Ethics",
+      "Decision Making",
+      "Change Management"
+    ]
+  },
+  "sections": [
+    {
+      "course_name": "ISS Refresher Training Batch (MCTP and DSTP)",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "DSTP",
+          "module_topic": "Handling of unit-level data of NSS and its analysis",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "01-06-2026 to 05-06-2026",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Data Visualization",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "MCTP-2* (Component-1&2)",
+          "module_topic": "Design, Evaluation, and Execution of Projects",
+          "level_of_participants": "ISS officers with 15-17 years of services",
+          "dates": "29-06-2026 to 03-07-2026",
+          "duration": "1",
+          "venue": "IITs/IIMs",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Project Management",
+              "Decision Making",
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "MCTP-2* (Component-1&2)",
+          "module_topic": "Advanced Management Programme",
+          "level_of_participants": "ISS officers with 15-17 years of services",
+          "dates": "06-07-2026 to 10-10-2026",
+          "duration": "1",
+          "venue": "IITs/IIMs",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Leadership",
+              "Project Management",
+              "Decision Making",
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "DSTP",
+          "module_topic": "Data-driven decision-making using data analytics",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "13-07-2026 to 17-07-2026",
+          "duration": "1",
+          "venue": "IIT Bombay/IIT Kanpur",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 5,
+          "programme": "DSTP",
+          "module_topic": "Stress Management/ Work Beyond Stress",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "13-07-2026 to 17-07-2026",
+          "duration": "1",
+          "venue": "Art of Living, Bengaluru/Isha Foundation Coimbatore",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 6,
+          "programme": "MCTP-I Stage II",
+          "module_topic": "Course on Artificial Intelligence (AI), ready Data, machine-readable data",
+          "level_of_participants": "ISS officers with 8-10 years of services",
+          "dates": "03-08-2026 to 07-08-2026",
+          "duration": "1",
+          "venue": "IIT Madras / IIT Kharagpur/ IIT Delhi/IIT Mumbai/Any other reputed institute",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "AI/ML",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 7,
+          "programme": "MCTP-I Stage I",
+          "module_topic": "R and Python through ISI Delhi",
+          "level_of_participants": "ISS officers with 8-10 years of services",
+          "dates": "07.09.2026 to 13.11.2026 (online 10 weeks) & 23.11.2026 to 04.12.2026 (Offline 2 Weeks)",
+          "duration": "12 Weeks",
+          "venue": "ISI Delhi",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "R",
+              "Python"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 8,
+          "programme": "DSTP",
+          "module_topic": "Team Building and Leadership through Adventure Sports activities (Trekking cum training)",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "21-09-2026 to 25-09-2026",
+          "duration": "1",
+          "venue": "Jawahar Institute of Mountaineering and Winter Sports (JIM & WS), Jammu and Kashmir / Nehru Institute of Mountaineering (NIM), Uttarkashi/ Atal Bihari Vajpayee Institute of Mountaineering and Allied Sports (ABVIMAS), Manali (HP) / Himalayan Mountaineering Institute (HMI) Darjeeling",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Leadership",
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 9,
+          "programme": "MCTP-III",
+          "module_topic": "Managing ICT Projects",
+          "level_of_participants": "ISS officers of 23-18 years of services",
+          "dates": "05-10-2026 to 09-10-2026",
+          "duration": "1",
+          "venue": "IIM Ahmedabad",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Cloud Computing",
+              "APIs"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Project Management"
+            ]
+          }
+        },
+        {
+          "s_no": 10,
+          "programme": "DSTP",
+          "module_topic": "Parliamentary Procedures and Cabinet Note Preparation, EFC, noting & drafting, and Manual of Office Procedure (MOP)",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "14-12-2026 to 18-12-2026",
+          "duration": "1",
+          "venue": "MCRHRDIT Hyderabad",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 11,
+          "programme": "DSTP",
+          "module_topic": "Statistical Literacy, Storytelling & Analysis writing",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "18-01-2027 to 22-01-2027",
+          "duration": "1",
+          "venue": "IIM A/B/K",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 12,
+          "programme": "DSTP",
+          "module_topic": "Training on Vigilance & Court Case, drafting Para-wise Remarks, LIMBS, CPGRAMS, RTI, etc.",
+          "level_of_participants": "In Service ISS Officers",
+          "dates": "08-03-2027 to 12-03-2027",
+          "duration": "1",
+          "venue": "AJ-NIFM, Faridabad/ASCI, Hyderabad/ISTM, Delhi/MCRHRDIT, Hyderabad",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [
+              "Data Privacy"
+            ],
+            "Behavioural and Managerial Competencies": [
+              "Ethics",
+              "Decision Making"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "DOPT IST Training and Other trainings of ISS in-service officers",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Monitoring and Evaluation for Outcome-Oriented Governance: Leveraging AI, MIS, and DGQI to improve Public Sector Performance",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "08-06-2026 to 12-06-2026",
+          "duration": "1",
+          "venue": "IIM Vishakhapatnam",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks",
+              "SDG Indicators"
+            ],
+            "Technical Competencies": [
+              "AI/ML",
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Data-driven decision-making using data analytics",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "27-07-2026 to 31-07-2026",
+          "duration": "1",
+          "venue": "IIT Bombay",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Public Financial Management",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "10-08-2026 to 14-08-2026",
+          "duration": "1",
+          "venue": "IIM Kozhikode",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Understanding Human Dimensions of Climate Change: Impact, Adaptation and Mitigation",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "17-08-2026 to 21-08-2026",
+          "duration": "1",
+          "venue": "ISB Mohali",
+          "competencies": {
+            "Statistical Competencies": [
+              "SDG Indicators"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making",
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 5,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Project Management & Analysis",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "07-09-2026 to 11-09-2026",
+          "duration": "1",
+          "venue": "IIM Jammu, Jammu",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Project Management",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 6,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Environment policy & Sustainable Development, Environment, Social & Governance (ESG) frameworks, Environmental Impact Assessment, and Climate Change (preparedness)",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "12-10-2026 to 16-10-2026",
+          "duration": "1",
+          "venue": "iCED, Jaipur (CTI)",
+          "competencies": {
+            "Statistical Competencies": [
+              "SDG Indicators"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making",
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 7,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Artificial Intelligence & Machine Learning in Governance",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "16-11-2026 to 20-11-2026",
+          "duration": "1",
+          "venue": "IIM Mumbai, Mumbai",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "AI/ML"
+            ],
+            "Digital Governance": [
+              "Digital Public Infrastructure"
+            ],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 8,
+          "programme": "DoPT IST Programme",
+          "module_topic": "Ethics in Public Service",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "22-02-2027 to 26-02-2027",
+          "duration": "1",
+          "venue": "ICCG, Panchagani",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Ethics"
+            ]
+          }
+        },
+        {
+          "s_no": 9,
+          "programme": "Promotional ISS Role-based training programme",
+          "module_topic": "TBD",
+          "level_of_participants": "In-Service ISS Officers",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "TBD",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 10,
+          "programme": "CSS/CSCS/SSS Officials of MoSPI",
+          "module_topic": "TBD",
+          "level_of_participants": "CSS/CSSS/CSCS Officials of MoSPI",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "TBD",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "JSO Induction Training and SSO Orientation Training",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "",
+          "module_topic": "Basic and Official Statistics, Survey Methodology, and Behavioural and Functional Competencies",
+          "level_of_participants": "JSO",
+          "dates": "06 July - 24 July, 2026",
+          "duration": "3 weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Survey Design",
+              "Sampling",
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "",
+          "module_topic": "Basic and Official Statistics, Survey Methodology, and Behavioural and Functional Competencies",
+          "level_of_participants": "JSO",
+          "dates": "28 September - 16 October, 2026",
+          "duration": "3 weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Survey Design",
+              "Sampling",
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "",
+          "module_topic": "Basic and Official Statistics, Survey Methodology, and Behavioural and Functional Competencies",
+          "level_of_participants": "JSO",
+          "dates": "04 January - 22 January, 2027",
+          "duration": "3 weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Survey Design",
+              "Sampling",
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "",
+          "module_topic": "Orientation Training Programme for newly promoted SSOs of SSS",
+          "level_of_participants": "SSO",
+          "dates": "18 May- 22 May, 2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Leadership"
+            ]
+          }
+        },
+        {
+          "s_no": 5,
+          "programme": "",
+          "module_topic": "Orientation Training Programme for newly promoted SSOs of SSS",
+          "level_of_participants": "SSO",
+          "dates": "08 June - 12 June, 2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Leadership"
+            ]
+          }
+        },
+        {
+          "s_no": 6,
+          "programme": "",
+          "module_topic": "Orientation Training Programme for newly promoted SSOs of SSS",
+          "level_of_participants": "SSO",
+          "dates": "10 August - 14 August, 2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Leadership"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "SSS Refresher training for SSOs and JSOs",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "",
+          "module_topic": "Team Building and Leadership",
+          "level_of_participants": "JSO",
+          "dates": "01 June - 05 June, 2026",
+          "duration": "1 week",
+          "venue": "NIM Uttarkashi",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Leadership"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "",
+          "module_topic": "Team Building and Leadership",
+          "level_of_participants": "SSO",
+          "dates": "15 June - 19 June, 2026",
+          "duration": "1 week",
+          "venue": "NIM Uttarkashi",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Leadership"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "",
+          "module_topic": "GFR with emphasis on procurement of Goods and Services",
+          "level_of_participants": "JSO",
+          "dates": "06 July - 10 July, 2026",
+          "duration": "1 week",
+          "venue": "ASCI Hyderabad",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "",
+          "module_topic": "Ethics and Integrity in Public Services",
+          "level_of_participants": "SSO & JSO",
+          "dates": "20 July - 24 July, 2026",
+          "duration": "1 week",
+          "venue": "ICCG Manesar",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Ethics"
+            ]
+          }
+        },
+        {
+          "s_no": 5,
+          "programme": "",
+          "module_topic": "GFR with emphasis on procurement of Goods and Services",
+          "level_of_participants": "SSO",
+          "dates": "20 July - 24 July, 2026",
+          "duration": "1 week",
+          "venue": "ASCI Hyderabad",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 6,
+          "programme": "",
+          "module_topic": "Pay Fixation",
+          "level_of_participants": "SSO",
+          "dates": "03 August - 07 August, 2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 7,
+          "programme": "",
+          "module_topic": "Soft Skills, Personality Development, and Professional Excellence",
+          "level_of_participants": "SSO",
+          "dates": "17 August - 21 August, 2026",
+          "duration": "1 week",
+          "venue": "RIPAES Odisha",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 8,
+          "programme": "",
+          "module_topic": "Pay Fixation",
+          "level_of_participants": "JSO",
+          "dates": "07 September - 11 September, 2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 9,
+          "programme": "",
+          "module_topic": "Handling Large Scale Data & Data Analytics using R",
+          "level_of_participants": "SSO",
+          "dates": "21 September - 25 September, 2026",
+          "duration": "1 week",
+          "venue": "IASRI Delhi",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "R",
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 10,
+          "programme": "",
+          "module_topic": "Stress Management Through Blissful Living",
+          "level_of_participants": "JSO",
+          "dates": "21 September - 25 September, 2026",
+          "duration": "1 week",
+          "venue": "Isha Yoga, Bangalore",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 11,
+          "programme": "",
+          "module_topic": "Application of remote sensing and disaster management",
+          "level_of_participants": "SSO",
+          "dates": "12 October - 16 October, 2026",
+          "duration": "1 week",
+          "venue": "IIRS Dehradun",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "GIS"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 12,
+          "programme": "",
+          "module_topic": "Stress Management Through Blissful Living",
+          "level_of_participants": "SSO",
+          "dates": "12 October - 16 October, 2026",
+          "duration": "1 week",
+          "venue": "IIYM Murthal Haryana",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 13,
+          "programme": "",
+          "module_topic": "Soft Skills, Personality Development, and Professional Excellence",
+          "level_of_participants": "JSO",
+          "dates": "26 October - 30 October, 2026",
+          "duration": "1 week",
+          "venue": "RIPAES Odisha",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 14,
+          "programme": "",
+          "module_topic": "Soft Skills, Personality Development, and Professional Excellence",
+          "level_of_participants": "JSO",
+          "dates": "16 November - 20 November, 2026",
+          "duration": "1 week",
+          "venue": "SASA Kerala",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 15,
+          "programme": "",
+          "module_topic": "Communication and Presentation Skills",
+          "level_of_participants": "SSO & JSO",
+          "dates": "07 December - 11 December, 2026",
+          "duration": "1 week",
+          "venue": "HIPA Shimla",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 16,
+          "programme": "",
+          "module_topic": "Soft Skills, Personality Development, and Professional Excellence",
+          "level_of_participants": "SSO",
+          "dates": "14 December - 18 December, 2026",
+          "duration": "1 week",
+          "venue": "SASA Kerala",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 17,
+          "programme": "",
+          "module_topic": "Application of remote sensing and disaster management",
+          "level_of_participants": "JSO",
+          "dates": "11 January - 15 January, 2027",
+          "duration": "1 week",
+          "venue": "IIRS Dehradun",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "GIS"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 18,
+          "programme": "",
+          "module_topic": "Specialized Training in SDG, Data Analytics",
+          "level_of_participants": "SSO & JSO",
+          "dates": "01 February - 05 February, 2027",
+          "duration": "1 week",
+          "venue": "TNSSTI, Tamil Nadu",
+          "competencies": {
+            "Statistical Competencies": [
+              "SDG Indicators",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "Awareness Training Programmes (HOD, PG/UG, and School students)",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "",
+          "module_topic": "Official Statistics",
+          "level_of_participants": "University Students",
+          "dates": "TBD",
+          "duration": "1 day",
+          "venue": "University Awareness - 6",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "",
+          "module_topic": "Training Programme on “Official Statistics”",
+          "level_of_participants": "HoD/ Faculty of University/ Colleges",
+          "dates": "20.07.2026 to 24.07.2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "",
+          "module_topic": "Training Programme on “Official Statistics”",
+          "level_of_participants": "HoD/ Faculty of University/ Colleges",
+          "dates": "27.07.2026 to 31.07.2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "",
+          "module_topic": "Official Statistics",
+          "level_of_participants": "DES Officers",
+          "dates": "15.06.2026 to 19.06.2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 5,
+          "programme": "",
+          "module_topic": "Official Statistics",
+          "level_of_participants": "DES Officers",
+          "dates": "21.09.2026 to 25.09.2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 6,
+          "programme": "",
+          "module_topic": "Training Programme on “Official Statistics”",
+          "level_of_participants": "PG/UG students of the University/colleges",
+          "dates": "21.12.2026 to 25.12.2026",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 7,
+          "programme": "",
+          "module_topic": "Training Programme on “Official Statistics”",
+          "level_of_participants": "PG/UG students of the University/colleges",
+          "dates": "28.12.2026 to 01.01.2027",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 8,
+          "programme": "",
+          "module_topic": "Official Statistics",
+          "level_of_participants": "DES Officers",
+          "dates": "08.02.2027 to 12.02.2027",
+          "duration": "1 week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "Demand-Based Training Programmes (DBTP)",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "",
+          "module_topic": "Official Statistics and related disciplines",
+          "level_of_participants": "Batch-I for ASOs of DES-U. P",
+          "number_of_participants": 25,
+          "dates": "25.05.2026 to 12.06.2026",
+          "duration": "3 Weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "",
+          "module_topic": "Official Statistics and Administration",
+          "level_of_participants": "Batch- I Statistical Assistants of DES-Ladakh",
+          "number_of_participants": 30,
+          "dates": "27.07.2026 to21.08.2026",
+          "duration": "4 Weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "",
+          "module_topic": "Official Statistics and Administration",
+          "level_of_participants": "Batch-II Statistical Assistants of DES-Ladakh",
+          "number_of_participants": 27,
+          "dates": "09.11.2026 to 04.12.2026",
+          "duration": "4 Weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "",
+          "module_topic": "Official Statistics and related disciplines",
+          "level_of_participants": "Batch-II for ASOs of DES-U. P",
+          "number_of_participants": 25,
+          "dates": "04.01.2027 to 22.04.2027",
+          "duration": "3 Weeks",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "JTS Training Programme",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "",
+          "module_topic": "DFPR, GFR, Public Procurement; Office Management, Office Procedures & Communication, and Official Statistics & Related Statistical Methodology; Fundamentals of Data Management & Data Analysis",
+          "level_of_participants": "JTS officers promoted in VY 2025",
+          "number_of_participants": "25-30",
+          "dates": "16.11.2026 to 11.12.2026",
+          "duration": "4 Weeks",
+          "venue": "AJNIFM/ISTM/NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "SQL",
+              "Data Visualization",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Project Management",
+              "Decision Making"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "International Training Programmes",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "",
+          "module_topic": "Training of Trainers on Evidence-Based Policymaking Using Statistics and Data",
+          "level_of_participants": "National Participants (ISS, SSS, State Govt. Officers, etc)",
+          "dates": "20.04.2026 to 24.04.2026",
+          "duration": "1 Week",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks",
+              "SDG Indicators"
+            ],
+            "Technical Competencies": [
+              "Data Visualization",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "",
+          "module_topic": "Residential AI Training Programme along with Training of Trainers (TOT),",
+          "level_of_participants": "National Participants",
+          "dates": "13.05.2026 to 15.05.2026",
+          "duration": "3 Days",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "AI/ML"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "",
+          "module_topic": "Residential AI Training Programme along with Training of Trainers (TOT),",
+          "level_of_participants": "National Participants",
+          "dates": "18.05.2026 to 20.05.2026",
+          "duration": "3 Days",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "AI/ML"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 4,
+          "programme": "",
+          "module_topic": "Subnational Statistics using Administrative Data",
+          "level_of_participants": "TBD",
+          "dates": "12.10.2026 to 23.10.2026",
+          "duration": "10 days",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 5,
+          "programme": "",
+          "module_topic": "Disaster-related Statistics",
+          "level_of_participants": "TBD",
+          "dates": "09.11.2026 to 13.11.2026",
+          "duration": "5 days",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 6,
+          "programme": "",
+          "module_topic": "ISEC Training",
+          "level_of_participants": "TBD",
+          "dates": "08.02.2026 to 12.02.2026",
+          "duration": "5 days",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 7,
+          "programme": "",
+          "module_topic": "ITEC Training",
+          "level_of_participants": "TBD",
+          "dates": "15.03.2026 to 26.03.2026",
+          "duration": "10 days",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "Other Trainings (Seminar/Talk /Workshop)",
+      "records": [
+        {
+          "s_no": 1,
+          "programme": "Seminar",
+          "module_topic": "Diagnosing Structural change in digital interventions: a configural evaluation framework",
+          "level_of_participants": "ISS and IES officers",
+          "dates": "23.04.2026",
+          "duration": "1 Day",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Data Visualization",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 2,
+          "programme": "Workshop",
+          "module_topic": "Data Governance: Administrative Data for Decision-Making",
+          "level_of_participants": "ISS Officers",
+          "dates": "24.06.2026",
+          "duration": "1 Day",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [
+              "Data Privacy"
+            ],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 3,
+          "programme": "Workshop",
+          "module_topic": "Research Methodologies: Impact Evaluations.",
+          "level_of_participants": "ISS Officers",
+          "dates": "24.09.2026",
+          "duration": "1 Day",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        }
+      ]
+    },
+    {
+      "course_name": "ISS Probationary Training",
+      "records": [
+        {
+          "s_no": 1,
+          "module_topic": "Joining Formalities/ Fundamentals of Official Statistics/ Office",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "06.04.2026-10.04.2026",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 2,
+          "module_topic": "Interaction with eminent personalities and the Secretary (MoSPI)",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "13.04.2026-17.04.2026",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 3,
+          "module_topic": "National Accounts Statistics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "20.04.2026-24.04.2026",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "National Accounts"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 4,
+          "module_topic": "Price Statistics and Social Statistics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "27.04.2026-01.05.2026",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Price Statistics"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 5,
+          "module_topic": "Administrative Statistics, DPDP Act, Basic Economics, Education Statistics, and IIP",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "04.05.2026-08.05.2026",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [
+              "Data Privacy"
+            ],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 6,
+          "module_topic": "Managing Budgets & Monitoring Plans",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "11.05.2026-15.05.2026",
+          "duration": "1",
+          "venue": "AJNIFM/IICA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Project Management",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 7,
+          "module_topic": "Big data, Artificial Intelligence (AI) with Python, Machine learning (ML), Harmonization of Data for improving interoperability, integrity for improved analysis, AI ready data, Machine readable data, Meta Data, MDDS, AI ready data and use cases, Exposure to alternate data sources like scanner data, mobile data, GIS, nightlight data, web-scrapped data etc and its use for policy formulation,",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "18.05.2026-01.06.2026",
+          "duration": "3",
+          "venue": "IITs",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Python",
+              "AI/ML",
+              "GIS",
+              "Data Visualization",
+              "Open Data"
+            ],
+            "Digital Governance": [
+              "Data Privacy"
+            ],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 8,
+          "module_topic": "Parliamentary Procedure",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "3D",
+          "venue": "New Delhi",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 9,
+          "module_topic": "Communication and presentation skills",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "08.06.2026-12.06.2026",
+          "duration": "1",
+          "venue": "IIPA/IIMC",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 10,
+          "module_topic": "Essentials of Survey Design: Survey methodology & Data Processing/Reporting, including aspects of designing, building, collecting, Processing, disseminating, and evaluating data collected through surveys/census, techniques, data dissemination techniques with reference to NSS Surveys, etc.",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "15.06.2026-03.07.2026",
+          "duration": "3",
+          "venue": "ISI Kolkata",
+          "competencies": {
+            "Statistical Competencies": [
+              "Survey Design",
+              "Sampling",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Data Visualization",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 11,
+          "module_topic": "Macroeconomic Diagnostics (MDS) and Financial Programming & Policies (FPP).",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "06.07.2026-24.07.2026",
+          "duration": "3",
+          "venue": "SARRTAC",
+          "competencies": {
+            "Statistical Competencies": [
+              "National Accounts"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 12,
+          "module_topic": "Official Statistics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "5 (Including 1 week at IASRI for the agriculture module)",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 13,
+          "module_topic": "Official Statistics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "5 (Including 1 week at IASRI for the agriculture module)",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 14,
+          "module_topic": "Official Statistics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "5 (Including 1 week at IASRI for the agriculture module)",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [
+              "Metadata Standards",
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 15,
+          "module_topic": "Project Work",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "2W2D",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Project Management",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 16,
+          "module_topic": "Office Procedure",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "2",
+          "venue": "ISTM",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 17,
+          "module_topic": "Advance IT",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "2",
+          "venue": "NSSTA/DIID/CDAC",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Python",
+              "SQL",
+              "Cloud Computing",
+              "APIs"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 18,
+          "module_topic": "Technological Skills: Basic & Advanced IT, including NSS Data extraction",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "NSSTA through CBC",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "Python",
+              "SQL",
+              "Open Data"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 19,
+          "module_topic": "President Meet",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "To be planned during the above 11 weeks at NSSTA",
+          "venue": "Rashtrapati Bhavan",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication"
+            ]
+          }
+        },
+        {
+          "s_no": 20,
+          "module_topic": "Labour Market Situation in India: An Overview\nGender ISSUES IN Employment, Labour Law Reforms and New Initiatives",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "",
+          "venue": "V.V. Giri National Labour Institute",
+          "competencies": {
+            "Statistical Competencies": [
+              "Labour Statistics"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 21,
+          "module_topic": "Activities of Labour Bureau, Chandigarh; NAAA & SIHFW Shimla (interaction with IA&AS)",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "Labour Bureau, Chandigarh; NAAA and SIHFW, Shimla",
+          "competencies": {
+            "Statistical Competencies": [
+              "Labour Statistics"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 22,
+          "module_topic": "Activities of Labour Bureau, Chandigarh; NAAA & SIHFW Shimla (interaction with IA&AS)",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "Labour Bureau, Chandigarh; NAAA and SIHFW, Shimla",
+          "competencies": {
+            "Statistical Competencies": [
+              "Labour Statistics"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 23,
+          "module_topic": "Foundation Course",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "14",
+          "venue": "MCRHRDI",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Ethics",
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 24,
+          "module_topic": "Monitoring outcomes and evaluating impact",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "ASCI Hyderabad",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks",
+              "SDG Indicators"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 25,
+          "module_topic": "Specialized training programme on Time Series and Applied Econometrics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "Institute for Social and Economic Change (ISEC), Bengaluru",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [
+              "R",
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 26,
+          "module_topic": "Leadership and Management Training Programme",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "IIMs",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Leadership",
+              "Project Management",
+              "Decision Making",
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 27,
+          "module_topic": "National security, internal security, and forensic science",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "CDTI Jaipur",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [
+              "Cybersecurity"
+            ],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 28,
+          "module_topic": "Data Analysis, its Interpretation, and Visualization using R",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "IITs",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "R",
+              "Data Visualization"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 29,
+          "module_topic": "Financial Statistics",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "NIBM, Pune",
+          "competencies": {
+            "Statistical Competencies": [
+              "Data Quality Frameworks"
+            ],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Decision Making"
+            ]
+          }
+        },
+        {
+          "s_no": 30,
+          "module_topic": "Applications of Geo-Spatial & Technology in Surveying, Monitoring, and Programme Implementation",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "North Eastern Space Applications Centre (NESAC), Meghalaya or Indian Institute of Remote Sensing (IIRS, Dehradun).",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [
+              "GIS"
+            ],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": []
+          }
+        },
+        {
+          "s_no": 31,
+          "module_topic": "Ethics and Integrity in Public Service",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "IIT Mumbai/NIT Warangal/IISc Bangalore/ IC Centre for Governance, Panchagani/CDAC, Pune",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Ethics"
+            ]
+          }
+        },
+        {
+          "s_no": 32,
+          "module_topic": "Foreign visit/exposure to developed NSOs",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Change Management"
+            ]
+          }
+        },
+        {
+          "s_no": 33,
+          "module_topic": "Probationary training completion formalities",
+          "level_of_participants": "ISS 2026 batch",
+          "dates": "TBD",
+          "duration": "1",
+          "venue": "NSSTA",
+          "competencies": {
+            "Statistical Competencies": [],
+            "Technical Competencies": [],
+            "Digital Governance": [],
+            "Behavioural and Managerial Competencies": [
+              "Communication",
+              "Change Management"
+            ]
+          }
+        }
+      ]
+    }
+  ]
+}

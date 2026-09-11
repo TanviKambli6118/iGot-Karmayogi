@@ -1,0 +1,251 @@
+
+{
+  "Annexure_I_Indicative_List_of_AI_Courses": [
+    {
+      "sl_no": 1,
+      "course_name": "Artificial Intelligence for Public Governance",
+      "course_provider": "Kyndryl & Data Security Council of India",
+      "duration": "2h 42 mins",
+      "source": "iGOT",
+      "level": "Intermediate"
+    },
+    {
+      "sl_no": 2,
+      "course_name": "Large Language Models: Concepts and Applications",
+      "course_provider": "IIT Hyderabad",
+      "duration": "1h 31 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 3,
+      "course_name": "Deep Tech and India",
+      "course_provider": "ORF",
+      "duration": "53 mins",
+      "source": "iGOT",
+      "level": "Intermediate"
+    },
+    {
+      "sl_no": 4,
+      "course_name": "AI in Government: Transforming Public Service Delivery",
+      "course_provider": "Indian Institute of Science (IISc) Bengaluru",
+      "duration": "1h 16 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 5,
+      "course_name": "Artificial Intelligence for Karmayogis",
+      "course_provider": "Karmayogi Bharat - Fractal",
+      "duration": "1h 34 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 6,
+      "course_name": "YUVA AI for All",
+      "course_provider": "India AI Mission",
+      "duration": "3h 50 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 7,
+      "course_name": "Fundamentals of Generative Artificial Intelligence",
+      "course_provider": "IIT Madras",
+      "duration": "58 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 8,
+      "course_name": "Introduction to Artificial Intelligence",
+      "course_provider": "IIT Madras",
+      "duration": "1h 2 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 9,
+      "course_name": "AI Applications in Government",
+      "course_provider": "NeGD",
+      "duration": "1h 8 mins",
+      "source": "iGOT",
+      "level": "Intermediate"
+    },
+    {
+      "sl_no": 10,
+      "course_name": "आर्टिफिशियल इंटेलिजेंस की मूल बातें: सीखना अनुप्रयोग और नैतिकता",
+      "course_provider": "Microsoft",
+      "duration": "1h 34 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 11,
+      "course_name": "प्रशासन के लिए उत्तरदायी एआई का उपयोग",
+      "course_provider": "Wadhwani Foundation",
+      "duration": "44 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 12,
+      "course_name": "सुशासन में एआई नैतिकता",
+      "course_provider": "Wadhwani Foundation",
+      "duration": "1h 13 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 13,
+      "course_name": "Artificial Intelligence in Finance",
+      "course_provider": "XLRI",
+      "duration": "1h 44 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 14,
+      "course_name": "Core Areas of Artificial Intelligence",
+      "course_provider": "IIT Madras",
+      "duration": "45 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 15,
+      "course_name": "युवा एआई फॉर ऑल",
+      "course_provider": "India AI Mission",
+      "duration": "3h 50 mins",
+      "source": "iGOT",
+      "level": "Beginner"
+    },
+    {
+      "sl_no": 16,
+      "course_name": "Advanced Prompt Engineering for Everyone",
+      "course_provider": "Vanderbilt University",
+      "duration": "8h 40 mins",
+      "source": "iGOT Marketplace/ Coursera",
+      "level": "Intermediate"
+    },
+    {
+      "sl_no": 17,
+      "course_name": "Build and Execute an Organisational AI Strategy",
+      "course_provider": "Coursera",
+      "duration": "5h 52 mins",
+      "source": "iGOT Marketplace/ Coursera",
+      "level": "Intermediate"
+    },
+    {
+      "sl_no": 18,
+      "course_name": "AI for Education (Intermediate)",
+      "course_provider": "Kennesaw State University",
+      "duration": "5h 25 mins",
+      "source": "iGOT Marketplace/ Coursera",
+      "level": "Intermediate"
+    },
+    {
+      "sl_no": 19,
+      "course_name": "AI for Energy and Biomedical Applications",
+      "course_provider": "University of Michigan",
+      "duration": "6h 49 mins",
+      "source": "iGOT Marketplace/ Coursera",
+      "level": "Intermediate"
+    }
+  ],
+
+  "iGOT_Marketplace_Courses": [
+    {
+      "sl_no": 1,
+      "course_name": "Strategy and Game Theory for Management",
+      "course_provider_author": "IIM Ahmedabad",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "29986787328184"
+    },
+    {
+      "sl_no": 2,
+      "course_name": "Leadership Skills",
+      "course_provider_author": "IIM, Ahmedabad",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "28231954432176"
+    },
+    {
+      "sl_no": 3,
+      "course_name": "Law, Governance, and Public Policy",
+      "course_provider_author": "O.P.Jindal Global University",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "17693544448133"
+    },
+    {
+      "sl_no": 4,
+      "course_name": "Introduction to Quantum Information",
+      "course_provider_author": "Korea Advanced Institute of Science and Technology (KAIST)",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "36936683520192"
+    },
+    {
+      "sl_no": 5,
+      "course_name": "Negotiation Fundamentals",
+      "course_provider_author": "ESSEC Business School",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "42702008320196"
+    },
+    {
+      "sl_no": 6,
+      "course_name": "Analysis and Interpretation of Large-Scale Programs",
+      "course_provider_author": "Johns Hopkins University",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "19367686144139"
+    },
+    {
+      "sl_no": 7,
+      "course_name": "Build and Execute an Organisational AI Strategy",
+      "course_provider_author": "Coursera Instructor Network",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "18487185408124"
+    },
+    {
+      "sl_no": 8,
+      "course_name": "Forest Carbon Credits and Initiatives",
+      "course_provider_author": "Michigan State University",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "30248448000156"
+    },
+    {
+      "sl_no": 9,
+      "course_name": "Design Thinking and Predictive Analytics for Data Products",
+      "course_provider_author": "University of California San Diego",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "31709081600161"
+    },
+    {
+      "sl_no": 10,
+      "course_name": "Effective Engagement of Civil Society in Development",
+      "course_provider_author": "Erasmus University Rotterdam",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "26132869120165"
+    },
+    {
+      "sl_no": 11,
+      "course_name": "Blockchain Platforms",
+      "course_provider_author": "University at Buffalo, The State university of New York",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "19373109248140"
+    },
+    {
+      "sl_no": 12,
+      "course_name": "Trade and Investment: Evidence-based policies for development",
+      "course_provider_author": "Erasmus University, Rotterdam",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "16782184448129"
+    },
+    {
+      "sl_no": 13,
+      "course_name": "Foundations of Cybersecurity",
+      "course_provider_author": "Google",
+      "course_link": "https://portal.igotkarmayogi.gov.in/app/toc/ext/ext_1144718",
+      "course_id": "27688087552171"
+    }
+  ]
+}
